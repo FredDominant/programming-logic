@@ -1,0 +1,19 @@
+{
+  "name": "programming-logic-prime",
+  "version": "1.0.0",
+  "description": "return prime numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noblemajesty/programming-logic-prime.git"
+  },
+  "author": "'Fred Adewole'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noblemajesty/programming-logic-prime/issues"
+  },
+  "homepage": "https://github.com/Noblemajesty/programming-logic-prime#readme"
+}
