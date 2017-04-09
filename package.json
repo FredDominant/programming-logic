@@ -1,11 +1,22 @@
 {
-  "name": "bootcamp",
+  "name": "progressions",
   "version": "1.0.0",
-  "description": "slc day one",
+  "description": "'to determine what type of progression array items are in'",
   "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
   "scripts": {
     "test": "jasmine"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noblemajesty/programming-logic-progressions.git"
+  },
   "author": "Fred Adewole",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noblemajesty/programming-logic-progressions/issues"
+  },
+  "homepage": "https://github.com/Noblemajesty/programming-logic-progressions#readme"
 }
